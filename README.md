@@ -13,7 +13,7 @@ If Windows asks "Are you sure?" — yes. The cannon already said yes.
 
 ## ▶️ How to run (Windows)
 
-1. Unzip this folder if you zipped it.
+1. Unzip this folder (it is already zipped) 
 2. Keep the `.exe` and the `.pck` **in the same folder** (they are married).
 3. Double-click **the `.exe`**.
 4. Immediately make a terrible decision.
