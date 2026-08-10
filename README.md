@@ -13,10 +13,11 @@ If Windows asks "Are you sure?" — yes. The cannon already said yes.
 
 ## ▶️ How to run (Windows)
 
-1. Unzip this folder (it is already zipped) 
-2. Keep everything **in the same folder** (they are married).
-3. Double-click **`Windows3.0NoBeta.exe`**.
-4. Immediately make a terrible decision.
+1. Down,load the .zip from https://github.com/EthanIchiro/Hot_Dog_Game-Windows/releases/tag/v3.0_no_beta
+2. Unzip this folder (it is already zipped) 
+3. Keep everything **in the same folder** (they are married).
+4. Double-click **`Windows3.0NoBeta.exe`**.
+5. Immediately make a terrible decision.
 
 If it doesn't start:
 - Unblock the file (Right-click → Properties → Unblock) if Windows got nervous
