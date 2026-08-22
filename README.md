@@ -11,12 +11,17 @@ If Windows asks "Are you sure?" — yes. The cannon already said yes.
 
 ---
 
-## ▶️ How to run (Windows)
+## ▶️ How to run
 
-1. Download **`HotDogGamev4.0Beta.zip`** from the [latest release](https://github.com/EthanIchiro/Hot_Dog_Game-Windows/releases/latest).
-2. **Open the ZIP. You do NOT need to unzip it.**
-3. Double-click **`HotDogGamev4.0Beta.exe`**.
-4. Immediately make a terrible decision.
+1. Go to **https://github.com/EthanIchiro/Hot_Dog_Game-Windows**
+2. Download **`HotDogGamev4.0Beta.7z`**
+3. Go to **https://cloudconvert.com/7z-to-zip**
+4. Upload **`HotDogGamev4.0Beta.7z`**
+5. Click **Convert**
+6. Click **Download**
+7. Open your Downloads folder
+8. Open the `.zip` it creates
+9. Double-click the `.exe` (usually **`HotDogGamev4.0Beta.exe`**)
 
 Keep the `.exe` and `.pck` together inside the ZIP (the files are married).
 
@@ -27,26 +32,15 @@ If it doesn't start:
 * Don't run only a random DLL and hope
 * Ignore `*.console.exe` unless you want a debug console
 
-### 📦 About the ZIP
+### 📦 Why 7Z?
 
-The downloadable ZIP is about **34 MB**.
+The downloadable **7Z is about 22 MB**, compared with the old ZIP's ~34 MB.
 
-Inside it:
+7Z is lossless, so converting it back to ZIP does **not** change the game files.
 
-* **`HotDogGamev4.0Beta.exe`** — ~100 MB
-* **`HotDogGamev4.0Beta.pck`** — ~98 KB
+The 7Z is basically the Hot Dog Game after going on a compression diet.
 
-Yes, the `.pck` is tiny.
-
-Yes, the `.exe` is enormous by comparison.
-
-No, this does not mean the hot dog itself is 100 MB.
-
-The executable contains the Godot engine/runtime needed to run the game, while the `.pck` contains the game's project data.
-
-**You do not need to extract the ZIP to play.**
-
-**Do not exile the `.pck`.** 🌭
+🌭 → 📦
 
 ---
 
@@ -127,6 +121,8 @@ The hot dogs already escaped.
 
 ## 📦 This ZIP should contain
 
+After converting the 7Z to ZIP, the ZIP should contain:
+
 * **`HotDogGamev4.0Beta.exe`** ← click this
 * **`HotDogGamev4.0Beta.pck`** ← do not exile this file
 * maybe some `.dll` friends ← leave them alone
@@ -144,15 +140,20 @@ And again:
 
 ## 💾 File sizes
 
-Approximate sizes for the v4.0 Beta Windows build:
+Approximate sizes:
 
-| File                     |    Size |
-| ------------------------ | ------: |
-| `HotDogGamev4.0Beta.exe` | ~100 MB |
-| `HotDogGamev4.0Beta.pck` |  ~98 KB |
-| Download ZIP             |  ~34 MB |
+| File / Archive           |       Size |
+| ------------------------ | ---------: |
+| `HotDogGamev4.0Beta.exe` |    ~100 MB |
+| `HotDogGamev4.0Beta.pck` |     ~98 KB |
+| Old ZIP                  |     ~34 MB |
+| **Current 7Z download**  | **~22 MB** |
 
-The ZIP is much smaller because compression exists and the hot dog has been compressed into a reasonable amount of digital lunch.
+The 7Z is about **35% smaller** than the old ZIP.
+
+That's **~12 MB saved**.
+
+The hot dog has been compressed into a reasonable amount of digital lunch.
 
 ---
 
