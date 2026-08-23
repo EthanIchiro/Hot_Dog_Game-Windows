@@ -21,7 +21,8 @@ If Windows asks "Are you sure?" — yes. The cannon already said yes.
 6. Click **Download**
 7. Open your Downloads folder
 8. Open the `.zip` it creates
-9. Double-click the `.exe` (usually **`HotDogGamev4.0Beta.exe`**)
+9. Decompress the .zip (Usually HotDogGamev4.0Beta.zip) 
+10. Double-click the `.exe` (usually **`HotDogGamev4.0Beta.exe`**)
 
 Keep the `.exe` and `.pck` together inside the ZIP (the files are married).
 
