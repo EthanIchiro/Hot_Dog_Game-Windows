@@ -114,6 +114,12 @@ Current platform support includes:
 
 visionOS is considered an experimental/future platform target.
 
+## 🐧 Linux
+
+The Linux edition of The Funny Hot Dog Game is available here:
+
+[Hot Dog Game — Linux](https://github.com/EthanIchiro/Hot_Dog_Game-Linux)
+
 ## 🔧 Built With
 
 The game is made with:
