@@ -1,185 +1,154 @@
-# The Funny Hot Dog Game — Windows
+# 🌭 The Funny Hot Dog Game — Windows
 
-You downloaded lunch. Congratulations.
+Welcome to **The Funny Hot Dog Game — Windows Edition!**
 
-Double-click the `.exe`.
-Protect the hot dog.
-Betray physics.
-Unlock shame.
+This repository contains the Windows build of **The Funny Hot Dog Game**, made with **Godot**.
 
-If Windows asks "Are you sure?" — yes. The cannon already said yes.
+## 🎮 Current Version
 
----
+**v4.1 — 4.0 Hotfix: Touch Can't Play Again**
 
-## ▶️ How to run
+This is a hotfix release for v4.0.
 
-1. Go to **https://github.com/EthanIchiro/Hot_Dog_Game-Windows**
-2. Download **`HotDogGamev4.0Beta.7z`**
-3. Go to **https://cloudconvert.com/7z-to-zip**
-4. Upload **`HotDogGamev4.0Beta.7z`**
-5. Click **Convert**
-6. Click **Download**
-7. Open your Downloads folder
-8. Open the `.zip` it creates
-9. Decompress the .zip (Usually HotDogGamev4.0Beta.zip) 
-10. Double-click the `.exe` (usually **`HotDogGamev4.0Beta.exe`**)
+## 🪟 Platform
 
-Keep the `.exe` and `.pck` together inside the ZIP (the files are married).
+This repository is for:
 
-If it doesn't start:
+* **Windows**
 
-* Unblock the file (Right-click → Properties → Unblock) if Windows got nervous
-* Don't delete the `.pck`
-* Don't run only a random DLL and hope
-* Ignore `*.console.exe` unless you want a debug console
+## 📦 Downloads
 
-### 📦 Why 7Z?
+There are two ways to get the Windows build.
 
-The downloadable **7Z is about 22 MB**, compared with the old ZIP's ~34 MB.
+### Releases
 
-7Z is lossless, so converting it back to ZIP does **not** change the game files.
+The **Releases** section contains the game's releases, including the **latest release**.
 
-The 7Z is basically the Hot Dog Game after going on a compression diet.
+The release downloads are provided as **`.zip` files**.
 
-🌭 → 📦
+### Main Repository Page
 
----
+The main repository page provides the **latest Windows build** as well.
 
-## 🎮 Controls
+However, the latest build on the main page is provided as a **`.7z` archive**.
 
-| Key               | Action                                             |
-| ----------------- | -------------------------------------------------- |
-| WASD / Arrow Keys | Move YOU + the HOT DOG + the BULLETS               |
-| Space             | Fire the Hot Dog Cannon                            |
-| R                 | Restart the chaos                                  |
-| Enter / Esc       | Achievements (stare at your progress / lack of it) |
+If you prefer a ZIP file, you can convert the `.7z` archive to `.zip` using:
 
-On the title screen: **Space / Enter / click** = start.
+[CloudConvert 7Z to ZIP](https://cloudconvert.com/7z-to-zip)
 
-One input moves lunch AND ammunition.
-If that sounds like a design mistake: correct.
+## ▶️ How to Play
 
----
+1. Download a Windows build.
+2. Extract the ZIP or 7Z archive.
+3. Keep all of the game files together.
+4. Run `HotDogGame4.1.exe`.
 
-## 💥 What is this
+## 📁 Windows Build Files
 
-**The Funny Hot Dog Game v4.0 Beta**
+A typical Windows build contains:
 
-(also known as Hot Dog Cannon when it's being professional for 0.2 seconds)
+* `HotDogGame4.1.exe` — Main Windows executable
+* `HotDogGame4.1.pck` — Godot game data
 
-Your mission:
+**Keep the `.exe` and `.pck` files together.**
 
-1. Move around.
-2. Protect the hot dog.
-3. Shoot the enemy.
-4. Accidentally shoot the hot dog.
-5. Accidentally shoot yourself.
-6. Unlock an achievement for that.
-7. Watch everything go horribly wrong.
-8. Do it again, but faster.
+## 🌭 About The Game
 
-Simple.
+**The Funny Hot Dog Game** is a chaotic game built around a very simple and very strange rule:
 
----
+> **Move one thing = everything moves.**
 
-## ✨ Features (Windows edition)
+The game has evolved significantly since its original version.
 
-* A suspiciously powerful hot dog cannon
-* A hungry enemy with questionable AI
-* Hot Dog Storm™
-* Sticky ketchup technology
-* YEET
-* Cannon heat / overheat
-* Chaos extras: Inspector · Big Dog · Cheese · Seagull · Armed foe · Reverse controls · Hot Dog Strike
-* Secret achievement: ???
-* Lots of achievements (your shame saves on this PC)
-* Run summary when you win/lose
-* A 404 ending (~**1%/sec** while alive)
-* Bonus dog ladder: **1 → 3 → 5 → 10**
-* Title screen so chaos doesn't punch you in the face at boot (usually)
+## 🕹️ Features
 
-Achievements save to Godot user data on your machine
-(something like AppData — closing the game will not wash the ketchup out).
+v4.x includes features such as:
 
----
+* 🌭 Hot dog gameplay
+* 🎮 Keyboard controls
+* 📱 Touch controls
+* 🕹️ Classic Mode
+* 🌪️ Chaos Level scoring
+* 🎲 Random events
+* 🏆 Achievements
+* 💥 Shooting
+* 👑 Boss encounters
+* 🐦 Seagulls
+* 🌭 Hot Dog Storm™
+* And plenty of general chaos
 
-## ⚠️ Warning
+## 🕹️ Controls
 
-Contains:
+Desktop controls use the keyboard.
 
-* dangerous levels of ketchup
-* flying food
-* a cannon that may betray you
-* an enemy smarter than expected (sometimes)
-* an enemy dumber than expected (the other times)
-* achievements your parents will not put on the fridge
+The game also includes **touch controls** for supported platforms.
 
-Play responsibly.
-Or don't.
-The hot dogs already escaped.
+Controls may vary depending on the game mode and platform.
 
----
+## 🕹️ Classic Mode
 
-## 📦 This ZIP should contain
+**Classic Mode** recreates the original **v1.0 MakeCode** version of The Funny Hot Dog Game.
 
-After converting the 7Z to ZIP, the ZIP should contain:
+The original game was much simpler than the modern Godot version.
 
-* **`HotDogGamev4.0Beta.exe`** ← click this
-* **`HotDogGamev4.0Beta.pck`** ← do not exile this file
-* maybe some `.dll` friends ← leave them alone
-* maybe a `.console.exe` ← optional debug; not required
-* this README ← you are here
+Classic Mode is included as a way to play the original style of the game while still using the modern project.
 
-No `index.html`. That's for browser people.
-You are Windows people. You have an exe. You are powerful.
+## 📜 Game History
 
-And again:
+The Funny Hot Dog Game originally started as a **v1.0 MakeCode game**.
 
-**You do NOT need to unzip the ZIP.**
+It later evolved into a much larger Godot project with multiple game modes, events, achievements, touch controls, bosses, and multiple platform exports.
 
----
+The game is now available across multiple platforms.
 
-## 💾 File sizes
+## 🌎 Other Platforms
 
-Approximate sizes:
+Current platform support includes:
 
-| File / Archive           |       Size |
-| ------------------------ | ---------: |
-| `HotDogGamev4.0Beta.exe` |    ~100 MB |
-| `HotDogGamev4.0Beta.pck` |     ~98 KB |
-| Old ZIP                  |     ~34 MB |
-| **Current 7Z download**  | **~22 MB** |
+* 🌐 **Web**
+* 🐧 **Linux**
+* 🪟 **Windows**
+* 📱 **Android**
 
-The 7Z is about **35% smaller** than the old ZIP.
+**macOS and visionOS are not currently supported.**
 
-That's **~12 MB saved**.
+visionOS is considered an experimental/future platform target.
 
-The hot dog has been compressed into a reasonable amount of digital lunch.
+## 🔧 Built With
 
----
+The game is made with:
 
-## 🛠 Built with
+**Godot Game Engine**
 
-* Godot
-* GDScript
-* Questionable decisions
-* Too many hot dogs
-* One (1) cannon with union issues
+## 📦 File Formats
 
----
+Windows builds may be distributed as either:
 
-## 🔗 More ketchup
+* `.zip`
+* `.7z`
 
-* itch.io: https://ethanichiro.itch.io/areallyweirdhotdoggame
-* Source: https://github.com/EthanIchiro/Hot_Dog_Game-Godot
-* Windows downloads: https://github.com/EthanIchiro/Hot_Dog_Game-Windows
+Both are archive formats and contain the files needed to run the game.
 
-MakeCode museum is closed for new builds. This is the living lunch.
+If you receive the `.7z` version but want a `.zip`, use:
 
----
+[CloudConvert 7Z to ZIP](https://cloudconvert.com/7z-to-zip)
 
-R = again.
-Enter = trophies.
-Space = consequences.
+## 🐙 GitHub
 
-🌭💥
+This repository contains the Windows edition of The Funny Hot Dog Game.
+
+Check the **Releases** section for previous and current Windows releases.
+
+## ⚠️ Important
+
+Do not separate the game executable from its `.pck` file.
+
+The `.pck` contains the game's resources and data needed by the executable.
+
+## 🌭 Have Fun!
+
+Thanks for checking out **The Funny Hot Dog Game**!
+
+Remember:
+
+**MOVE ONE THING = EVERYTHING MOVES.** 🌭🎮💥
